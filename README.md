@@ -1,11 +1,11 @@
-About r-spdl
-============
+About r-spdl-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spdl-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/eddelbuettel/spdl
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spdl-feedstock/blob/main/LICENSE.txt)
 
 Summary: Logging functions in 'RcppSpdlog' provide access to the logging functionality from the 'spdlog' 'C++' library. This package offers shorter convenience wrappers for the 'R' functions which match the 'C++' functions, namely via, say, 'spdl::debug()' at the debug level. The actual formatting is done by the 'fmt::format()' function from the 'fmtlib' library (that is also 'std::format()' in 'C++20' or later).
 
